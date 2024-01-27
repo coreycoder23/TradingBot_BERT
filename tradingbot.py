@@ -92,4 +92,3 @@ trader = Trader()
 trader.add_strategy(strategy)
 trader.run_all()
 
-)
